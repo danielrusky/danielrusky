@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="mailto:DIZz92@mail.ru" target="_blank">
-    <img src="" height="25" alt="gmail logo"  />
+    <img src="https://e.mail.ru/inbox/?back=1" height="25" alt="gmail logo"  />
   </a>
 </div>
 
