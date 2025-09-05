@@ -33,8 +33,9 @@
   <a href="https://t.me/danielrusky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="mailto:spook9400@mail.ru">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=DD4B39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Написать мне" />
+  <a href="mailto:spook9400@mail.ru" style="text-decoration:none; color:blue;">
+  Написать мне
+</a>
 </a>
   </a>
 </div>
