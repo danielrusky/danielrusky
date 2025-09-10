@@ -19,10 +19,10 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| https://github.com/danielrusky/MedProject | Проект медицинской диагностики | Python, Django, PostgreSQL, Docker, Docker-compose, HTML, CSS |
-| .................................................................................................... | API сервис отправки напоминаний в телеграмме | Python, DRF, PostgreSQL, Docker, Docker-compose, Celary, Redis |
-| .................................................................................................... | API для управления библиотекой | Python, DRF, PostgreSQL, Docker, Docker-compose |
-| .................................................................................................... | API электронной розничной сети | Python, DRF, PostgreSQL, Docker, Docker-compose |
+| https://github.com/danielrusky/MedProject | Проект медицинской диагностики | Python, Django, PostgreSQL, HTML, CSS |
+| https://github.com/danielrusky/kursovaya_4 | Курсовой проект по ООП “Парсер вакансий” | Python, PostgreSQL, HTML, CSS |
+| https://github.com/danielrusky/atom_habits | API для управления библиотекой | Python, DRF, PostgreSQL, Docker, Docker-compose |
+| https://github.com/danielrusky/26.2_celery | Разработка LMS-системы | Python, DRF, PostgreSQL, Docker, Docker-compose |
 
 
 <h2 align="center">Способ связи:</h2>
